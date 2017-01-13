@@ -53,6 +53,11 @@ body {
 	word-wrap: break-word;
 }
 
+.read-more-link {
+	text-align: right;
+	font-style: italic;
+}
+
 .mr-container, .mr-container-inner {
 	width: 100%;
 	max-width: 1080px;
